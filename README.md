@@ -1,1 +1,1 @@
-Frontend : AT0117/resync https://github.com/AT0117/resync
+Frontend Repo URL : AT0117/resync https://github.com/AT0117/resync
